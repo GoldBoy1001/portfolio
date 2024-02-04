@@ -6,28 +6,29 @@ import project03 from '../../img/projects/аукцион.jpg'
 import project03Big from '../../img/projects/03-big.jpg'
 import project04 from '../../img/projects/holst.jpg'
 import drafts from '../../img/projects/drafts.jpg'
-import project04Big from '../../img/projects/04-big.jpg'
-import project05 from '../../img/projects/05.jpg'
-import project05Big from '../../img/projects/05-big.jpg'
-import project06 from '../../img/projects/06.jpg'
-import project06Big from '../../img/projects/06-big.jpg'
+import prof from '../../img/projects/prof.jpg'
+// import project04Big from '../../img/projects/04-big.jpg'
+// import project05 from '../../img/projects/05.jpg'
+// import project05Big from '../../img/projects/05-big.jpg'
+// import project06 from '../../img/projects/06.jpg'
+// import project06Big from '../../img/projects/06-big.jpg'
 
 const project = [
+	{
+		title: 'ProffiComplex',
+		skills: 'Gulp, JavaScript, Scss, Grid, Yandex Maps, Swiper',
+		img: prof,
+		id: 1,
+		imgBig: prof,
+		gitHubLink: 'https://goldboy1001.github.io/profficomplex/'
+	},
 	{
 		title: 'Drafts',
 		skills: 'Gulp, JavaScript, Scss, Grid',
 		img: drafts,
-		id: 1,
+		id: 2,
 		imgBig: drafts,
 		gitHubLink: 'https://goldboy1001.github.io/drafts/'
-	},
-	{
-		title: 'Holst',
-		skills: 'Gulp, JavaScript, Scss, Grid',
-		img: project04,
-		id: 2,
-		imgBig: project04,
-		gitHubLink: 'https://goldboy1001.github.io/holst/'
 	},
 	{
 		title: 'Booking Tickets',
@@ -38,10 +39,18 @@ const project = [
 		gitHubLink: 'https://goldboy1001.github.io/fe-diplom/'
 	},
 	{
+		title: 'Holst',
+		skills: 'Gulp, JavaScript, Scss, Grid',
+		img: project04,
+		id: 4,
+		imgBig: project04,
+		gitHubLink: 'https://goldboy1001.github.io/holst/'
+	},
+	{
 		title: 'Xiaomi-Bike',
 		skills: 'Gulp, js, jquery',
 		img: project02,
-		id: 4,
+		id: 5,
 		imgBig: project02,
 		gitHubLink: 'https://goldboy1001.github.io/Xiaomi-Bike/'
 	},
@@ -49,7 +58,7 @@ const project = [
 		title: 'Auction',
 		skills: 'JS, Gulp',
 		img: project03,
-		id: 5,
+		id: 6,
 		imgBig: project03,
 		gitHubLink: 'https://goldboy1001.github.io/auction/'
 	},
