@@ -1,10 +1,10 @@
 import project01 from "../../img/projects/project1.jpg";
-import project01Big from "../../img/projects/01-big.jpg";
+// import project01Big from "../../img/projects/01-big.jpg";
 import project02 from "../../img/projects/xiaomi.jpg";
-import project02Big from "../../img/projects/02-big.jpg";
+// import project02Big from "../../img/projects/02-big.jpg";
 import project03 from "../../img/projects/аукцион.jpg";
-import project03Big from "../../img/projects/03-big.jpg";
-import project04 from "../../img/projects/holst.jpg";
+// import project03Big from "../../img/projects/03-big.jpg";
+// import project04 from "../../img/projects/holst.jpg";
 import drafts from "../../img/projects/drafts.jpg";
 import prof from "../../img/projects/prof.jpg";
 // import project04Big from '../../img/projects/04-big.jpg'
@@ -20,7 +20,7 @@ const project = [
     img: prof,
     id: 1,
     imgBig: prof,
-    gitHubLink: "https://goldboy1001.github.io/profficomplex/",
+    gitHubLink: "https://profficomplex.vercel.app/",
   },
   {
     title: "Drafts",
