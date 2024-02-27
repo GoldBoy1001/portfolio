@@ -20,7 +20,7 @@ const project = [
     img: prof,
     id: 1,
     imgBig: prof,
-    gitHubLink: "https://profficomplex.vercel.app/",
+    gitHubLink: " https://goldboy1001.github.io/profficomplex/",
   },
   {
     title: "Drafts",
