@@ -20,7 +20,7 @@ const project = [
     skills: "Gulp, JavaScript, Canvas",
     img: snake,
     id: 1,
-    imgBig: prof,
+    imgBig: snake,
     gitHubLink: "https://snake-pi-ochre.vercel.app/",
   },
   {
