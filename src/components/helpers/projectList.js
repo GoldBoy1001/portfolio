@@ -7,6 +7,7 @@ import project03 from "../../img/projects/аукцион.jpg";
 // import project04 from "../../img/projects/holst.jpg";
 import drafts from "../../img/projects/drafts.jpg";
 import prof from "../../img/projects/prof.jpg";
+import snake from "../../img/projects/snake.jpg";
 // import project04Big from '../../img/projects/04-big.jpg'
 // import project05 from '../../img/projects/05.jpg'
 // import project05Big from '../../img/projects/05-big.jpg'
@@ -15,10 +16,18 @@ import prof from "../../img/projects/prof.jpg";
 
 const project = [
   {
+    title: "Snake",
+    skills: "Gulp, JavaScript, Canvas",
+    img: snake,
+    id: 1,
+    imgBig: prof,
+    gitHubLink: "https://snake-pi-ochre.vercel.app/",
+  },
+  {
     title: "ProffiComplex",
     skills: "Gulp, JavaScript, Scss, Grid, Yandex Maps, Swiper",
     img: prof,
-    id: 1,
+    id: 2,
     imgBig: prof,
     gitHubLink: " https://goldboy1001.github.io/profficomplex/",
   },
@@ -26,7 +35,7 @@ const project = [
     title: "Drafts",
     skills: "Gulp, JavaScript, Scss, Grid",
     img: drafts,
-    id: 2,
+    id: 3,
     imgBig: drafts,
     gitHubLink: "https://goldboy1001.github.io/drafts/",
   },
@@ -34,7 +43,7 @@ const project = [
     title: "Booking Tickets",
     skills: "React, TypeScript, Redux Toolkit, Scss, Grid",
     img: project01,
-    id: 3,
+    id: 4,
     imgBig: project01,
     gitHubLink: "https://goldboy1001.github.io/fe-diplom/",
   },
@@ -42,7 +51,7 @@ const project = [
     title: "Xiaomi-Bike",
     skills: "Gulp, js, jquery",
     img: project02,
-    id: 4,
+    id: 5,
     imgBig: project02,
     gitHubLink: "https://goldboy1001.github.io/Xiaomi-Bike/",
   },
@@ -50,7 +59,7 @@ const project = [
     title: "Auction",
     skills: "JS, Gulp",
     img: project03,
-    id: 5,
+    id: 6,
     imgBig: project03,
     gitHubLink: "https://goldboy1001.github.io/auction/",
   },
