@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e2d79640.css",
-    "main.js": "/portfolio/static/js/main.9c054cdf.js",
+    "main.js": "/portfolio/static/js/main.8641839e.js",
     "static/js/787.7d5a69c9.chunk.js": "/portfolio/static/js/787.7d5a69c9.chunk.js",
-    "static/media/prof.jpg": "/portfolio/static/media/prof.dd794867c22b88d3103c.jpg",
+    "static/media/TkVgrFSYMeE.jpg": "/portfolio/static/media/TkVgrFSYMeE.5aa018750ffa2cd9dc47.jpg",
     "static/media/drafts.jpg": "/portfolio/static/media/drafts.67ebf43c3de4f9792889.jpg",
     "static/media/project1.jpg": "/portfolio/static/media/project1.ea69f160336a22240179.jpg",
     "static/media/аукцион.jpg": "/portfolio/static/media/аукцион.362111d36075896d2396.jpg",
     "static/media/xiaomi.jpg": "/portfolio/static/media/xiaomi.e9e239018f52c7e95f47.jpg",
-    "static/media/snake.jpg": "/portfolio/static/media/snake.6436e6b6a380928f0b6d.jpg",
+    "static/media/hPyQaTYpi30.jpg": "/portfolio/static/media/hPyQaTYpi30.5e757505c1072bee3ffb.jpg",
+    "static/media/ZDbw3IAv6e4.jpg": "/portfolio/static/media/ZDbw3IAv6e4.6a18317e325c57bb45f3.jpg",
     "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
-    "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
-    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/instagram.svg": "/portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
-    "static/media/vk.svg": "/portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
-    "static/media/twitter.svg": "/portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
-    "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "static/media/sun.svg": "/portfolio/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
+    "static/media/moon.svg": "/portfolio/static/media/moon.312bed9230c94183d589bcc499993093.svg",
+    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.6b0ce32a930db2eac1c21600458a8cd0.svg",
+    "static/media/vk.svg": "/portfolio/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.9ca7b7d7634476270a563192e3f69250.svg",
+    "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "index.html": "/portfolio/index.html",
     "main.e2d79640.css.map": "/portfolio/static/css/main.e2d79640.css.map",
-    "main.9c054cdf.js.map": "/portfolio/static/js/main.9c054cdf.js.map",
+    "main.8641839e.js.map": "/portfolio/static/js/main.8641839e.js.map",
     "787.7d5a69c9.chunk.js.map": "/portfolio/static/js/787.7d5a69c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2d79640.css",
-    "static/js/main.9c054cdf.js"
+    "static/js/main.8641839e.js"
   ]
 }
