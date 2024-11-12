@@ -6,8 +6,9 @@ import project03 from "../../img/projects/аукцион.jpg";
 // import project03Big from "../../img/projects/03-big.jpg";
 // import project04 from "../../img/projects/holst.jpg";
 import drafts from "../../img/projects/drafts.jpg";
-import prof from "../../img/projects/prof.jpg";
-import snake from "../../img/projects/snake.jpg";
+import prof from "../../img/projects/TkVgrFSYMeE.jpg";
+import snake from "../../img/projects/hPyQaTYpi30.jpg";
+import slider from "../../img/projects/ZDbw3IAv6e4.jpg";
 // import project04Big from '../../img/projects/04-big.jpg'
 // import project05 from '../../img/projects/05.jpg'
 // import project05Big from '../../img/projects/05-big.jpg'
@@ -16,10 +17,18 @@ import snake from "../../img/projects/snake.jpg";
 
 const project = [
   {
+    title: "Slider",
+    skills: "Vite, JavaScript",
+    img: slider,
+    id: 1,
+    imgBig: slider,
+    gitHubLink: "https://slider-js-six.vercel.app/",
+  },
+  {
     title: "Snake",
     skills: "Gulp, JavaScript, Canvas",
     img: snake,
-    id: 1,
+    id: 2,
     imgBig: snake,
     gitHubLink: "https://snake-pi-ochre.vercel.app/",
   },
@@ -27,7 +36,7 @@ const project = [
     title: "ProffiComplex",
     skills: "Gulp, JavaScript, Scss, Grid, Yandex Maps, Swiper",
     img: prof,
-    id: 2,
+    id: 3,
     imgBig: prof,
     gitHubLink: " https://goldboy1001.github.io/profficomplex/",
   },
@@ -35,7 +44,7 @@ const project = [
     title: "Drafts",
     skills: "Gulp, JavaScript, Scss, Grid",
     img: drafts,
-    id: 3,
+    id: 4,
     imgBig: drafts,
     gitHubLink: "https://goldboy1001.github.io/drafts/",
   },
@@ -43,7 +52,7 @@ const project = [
     title: "Booking Tickets",
     skills: "React, TypeScript, Redux Toolkit, Scss, Grid",
     img: project01,
-    id: 4,
+    id: 5,
     imgBig: project01,
     gitHubLink: "https://goldboy1001.github.io/fe-diplom/",
   },
@@ -51,7 +60,7 @@ const project = [
     title: "Xiaomi-Bike",
     skills: "Gulp, js, jquery",
     img: project02,
-    id: 5,
+    id: 6,
     imgBig: project02,
     gitHubLink: "https://goldboy1001.github.io/Xiaomi-Bike/",
   },
@@ -59,7 +68,7 @@ const project = [
     title: "Auction",
     skills: "JS, Gulp",
     img: project03,
-    id: 6,
+    id: 7,
     imgBig: project03,
     gitHubLink: "https://goldboy1001.github.io/auction/",
   },
